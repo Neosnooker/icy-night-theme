@@ -1,6 +1,13 @@
 # icy-night-theme
 A handcrafted ice-blueish theme that is comfortable and beautiful to the eye.
 
+## Handcrafted selection rules
++ The primary (signature) color group has colors of 4 brightness levels with same hue and saturation under the HSB (HSV) color function.
++ The mark color grolp has two colors of the same hue and saturation under the HSB (HSV) color function, and has a brightness of 50 and 100, respectively.
++ The text color is choosen with an "exponential"-ish decrease/increase in brightness.
++ The rainbowish colors are handcrafted and attempt to be vibrant without appearing overly saturated.
+  + Each color has 5 brightness levels. The corresponding, increasing (HSB) brightness range for the 5 levels are 50-60, 60-70, 70-80, 80-90, and 90-100.
+
 ## Current colors
 
 + Dark "Icy" Blue
@@ -9,8 +16,8 @@ A handcrafted ice-blueish theme that is comfortable and beautiful to the eye.
   + Tertiary: `#314c66`
   + Quaternary: `#385875`
 + Mark Blue:
-  + Original: `#8cd7ff`
-  + Dark: `#466a7f`
+  + Original: `#69caff`
+  + Dark: `#346580`
 + Other colors:
   + Text (white):
     1. `#f7fafc`

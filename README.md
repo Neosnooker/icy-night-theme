@@ -1,5 +1,5 @@
 # icy-night-theme
-A random ice-blueish theme that is comfortable and beautiful to the eye.
+A handcrafted ice-blueish theme that is comfortable and beautiful to the eye.
 
 ## Current colors
 
@@ -19,10 +19,10 @@ A random ice-blueish theme that is comfortable and beautiful to the eye.
     4. `#d7dadb`
     5. `#aeb1b2`
   + "Rainbowish" colors:
-    + Magenta: `#ce5ed6`
+    + Magenta: `#e670dc`
     + Red: `#ed5b51`
     + Orange: `#f2975a`
     + Yellow: `#edd368`
-    + Green: `#39d486`
-    + Cyan: `#69e3ff`
-    + Blue: `#67a9f5`
+    + Green: `#37e68e`
+    + Cyan: `#77e2fc`
+    + Blue: `#72b2fc`

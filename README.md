@@ -19,12 +19,18 @@ A handcrafted ice-blueish theme that is comfortable and beautiful to the eye.
   + Original: `#69caff`
   + Dark: `#346580`
 + Other colors:
-  + Text (white):
+  + White Text:
     1. `#f7fafc`
     2. `#f5f8fa`
     3. `#f0f3f5`
     4. `#d7dadb`
     5. `#aeb1b2`
+  + Black Text:
+    1. `#020303`
+    2. `#050505`
+    3. `#0a0a0a`
+    4. `#232324`
+    5. `#4b4c4d`
   + "Rainbowish" colors:
     + Magenta: `#db6bd2` - `#c25fba` - `#ab54a4` - `#94488e` - `#7d3d78`
     + Red: `#ed5b51` - `#d15047` - `#b8473e` - `#9c3c35` - `#80312b`

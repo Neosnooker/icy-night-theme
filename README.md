@@ -32,10 +32,10 @@ A handcrafted ice-blueish theme that is comfortable and beautiful to the eye.
     4. `#232324`
     5. `#4b4c4d`
   + "Rainbowish" colors:
-    + Magenta: `#db6bd2` - `#c25fba` - `#ab54a4` - `#94488e` - `#7d3d78`
-    + Red: `#ed5b51` - `#d15047` - `#b8473e` - `#9c3c35` - `#80312b`
-    + Orange: `#f2874e` - `#d97945` - `#bf6b3d` - `#a35b34` - `#874b2b`
-    + Yellow: `#ebcc67` - `#d1b65c` - `#b8a051` - `#a18c47` - `#87753b`
-    + Green: `#1ce681` - `#18c971` - `#14a85e` - `#118a4d` - `#0d693b`
-    + Cyan: `#5ed2f2` - `#54bad6` - `#4aa4bd` - `#4190a6` - `#3b7b8c`
-    + Blue: `#6ea6f5` - `#6497de` - `#5885c4` - `#4e76ad` - `#436494`
+    + Magenta: `#f06ce5`
+    + Red: `#ff5b4f`
+    + Orange: `#ff8e52`
+    + Yellow: `#fadc66`
+    + Green: `#1ce882`
+    + Cyan: `#63ddff`
+    + Blue: `#73adff`

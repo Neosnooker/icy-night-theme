@@ -36,6 +36,6 @@ A handcrafted ice-blueish theme that is comfortable and beautiful to the eye.
     + Red: `#ff5b4f`
     + Orange: `#ff8e52`
     + Yellow: `#fadc66`
-    + Green: `#1ce882`
+    + Green: `#1ce896`
     + Cyan: `#63ddff`
     + Blue: `#73adff`
